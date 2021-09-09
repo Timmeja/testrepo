@@ -1,1 +1,12 @@
+.kiseger{
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+}
+#id1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
 
+#id1:hover{
+    background-color: coral;
+}
